@@ -23,10 +23,6 @@ I am Ivan Ramirez. Senior Software Engineer from Mexico and currently working as
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 
-## Portfolio
-
-[www.ivanramirez.com](https://www.ivanramirez.com)
-
 ## Reach Me
 
 <a href="https://twitter.com/IvanRamirezRos">
